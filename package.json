@@ -1,0 +1,12 @@
+{
+  "name": "@iconify-json/my-icons",
+  "version": "1.0.0",
+  "description": "My custom icon set",
+  "main": "index.js",
+  "scripts": {
+    "build": "iconify-json build"
+  },
+  "keywords": ["iconify", "icons"],
+  "author": "Your Name",
+  "license": "MIT"
+}

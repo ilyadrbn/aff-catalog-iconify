@@ -1,12 +1,12 @@
 {
-  "name": "@iconify-json/my-icons",
+  "name": "@iconify-json/affcatalog-icons",
   "version": "1.0.0",
-  "description": "My custom icon set",
+  "description": "AffCatalog Icons",
   "main": "index.js",
   "scripts": {
     "build": "iconify-json build"
   },
   "keywords": ["iconify", "icons"],
-  "author": "Your Name",
+  "author": "AffCatalog",
   "license": "MIT"
 }
